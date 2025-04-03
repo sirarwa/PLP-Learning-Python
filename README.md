@@ -31,3 +31,25 @@ This is a simple calculator program written in Python. It allows users to perfor
 5. The program will loop and ask for new inputs until the program is closed.
 
 ## Example
+Enter first number: 10
+Enter operator (+, -, *, /): +
+Enter second number: 5
+Result: 15.0
+
+
+## Code Structure
+
+The code is organized into a single Python file. It uses `if` and `elif` statements to determine the operation to perform. It also includes a check to prevent division by zero.
+
+## Potential Improvements
+
+* Adding more advanced operations (e.g., exponents, square roots).
+* Implementing a graphical user interface (GUI) for a more user-friendly experience.
+* Adding more comprehensive error handling for invalid input.
+* Adding memory functions.
+* Adding ability to use previous result in the next operation.
+
+## Author
+
+[sirarwa]
+
